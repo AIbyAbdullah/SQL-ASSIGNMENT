@@ -48,3 +48,5 @@ go
 --select * from sales.orders where shipped_date is null;
 --Task 8 end
 
+
+
